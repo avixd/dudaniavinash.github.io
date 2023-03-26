@@ -10,13 +10,14 @@
 
 # [Project 1 : Adventure Works Sales Analysis](https://github.com/avixd/Adventure-Works-Sales-Analysis)
 
-> *Tools* : [Power BI](https://www.credly.com/badges/f0925474-6b3f-4455-9b44-a1576025a9e6/linked_in_profile)
-> *Skills*: Data Analysis, Data Visualization and Storytelling.
 # *Problem Statement*
 1. Analyze historical sales and profit and territory.
 2. Identify bestselling products and attributed customers and regions.
 3. Forecast revenue for the next 7 periods.
 4. Execute pricing scenario analysis to understand increase in product cost.
+
+> *Tools* : [Power BI](https://www.credly.com/badges/f0925474-6b3f-4455-9b44-a1576025a9e6/linked_in_profile)
+> *Skills*: Data Analysis, Data Visualization and Storytelling.
 
 # *Solution*
 Here is a [video](https://1drv.ms/f/s!AkGuKJKxOlnAgQiNthHdATh_Ugps?e=XufHrk), demonstrating the functionalities below:
@@ -31,11 +32,11 @@ A summary of this project is also [available here](https://1drv.ms/b/s!AkGuKJKxO
 
 
 # [Project 2 : Linear Regression ](https://github.com/avixd/MultipleLinearRegressioninPython)
+# *Problem Statement*
+Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
+
 > *Tools*:  Python. 
 > *Skills* : Exploratory Data Analysis, Descriptive and Predictive Analysis.
-
-># *Problem Description*: 
->Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
 
 # [*Solution Steps*](https://1drv.ms/b/s!AkGuKJKxOlnAgQxHIJK4HfocT9F8?e=j7FkPX):
 1. Importing Libraries such as sklearn,pandas, numpy and matplotlib. Reading csv files.
