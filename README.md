@@ -44,8 +44,8 @@ Multiple linear regression to predict Profit based on Administration spend, Mark
 3. Exploratory Data Analysis
 4. Model Splitting, Training and Testing : Used a 80-20 Split
 5. Model Evaluation : On tuning the model, the R^2^ Score = 93.47%
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit.PNG)
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.PNG)
+![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png)
+![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit.png)
 
 
 
