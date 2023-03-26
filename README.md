@@ -20,7 +20,7 @@
 > *Skills*: Data Analysis, Data Visualization and Storytelling.
 
 # *Solution*
-Here is a [video](https://1drv.ms/f/s!AkGuKJKxOlnAgQiNthHdATh_Ugps?e=XufHrk), demonstrating the functionalities below:
+Here is a [video](https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=cjUtrh), demonstrating the functionalities below:
 1. Conditional drilldown using 2 columns: Customer ad Region to analyze Profit.
 2. Dynamic Product Pricing Scenario Analysis.
 3. Forecast Revenue for next 7 months+.
