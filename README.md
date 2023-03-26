@@ -1,15 +1,17 @@
-# Welcome! Avinash Dudani's Portfolio
+# Welcome! [Avinash Dudani's](https://www.linkedin.com/in/avinash-dudani/) Portfolio
 
 ## About Me:
 
-![alt text](C:\Users\Avi\OneDrive\Desktop\Capture.png)
-Avinash is an autonomous Industrial engineer with 3 years of experience.
-Avinash is innately curious and immensely passionate about Big Data, Cloud Computing and Business Intelligence.
-Avinash strives to create unqiue end-to-end solutions using the Microsoft Tech stack.
+![Avin](https://1drv.ms/i/s!AkGuKJKxOlnAgQtTNHudl4mXS1LM?e=jnAav1.png)
+> 1. Avinash is an autonomous Industrial engineer with 3 years of experience.
+> 2. He is innately curious and immensely passionate about Big Data, Cloud Computing and Business Intelligence.
+> 3. Avinash strives to create unqiue end-to-end solutions using the Microsoft Tech stack.
 
 
 # [Project 1 : Adventure Works Sales Analysis](https://github.com/avixd/Adventure-Works-Sales-Analysis)
 
+> *Tools* : [Power BI](https://www.credly.com/badges/f0925474-6b3f-4455-9b44-a1576025a9e6/linked_in_profile)
+> *Skills*: Data Analysis, Data Visualization and Storytelling.
 # *Problem Statement*
 1. Analyze historical sales and profit and territory.
 2. Identify bestselling products and attributed customers and regions.
@@ -26,4 +28,11 @@ Here is a [video](https://1drv.ms/f/s!AkGuKJKxOlnAgQiNthHdATh_Ugps?e=XufHrk), de
 6. Page Navigation and Custom Filter Panes.
 
 A summary of this project is also [available here](https://1drv.ms/b/s!AkGuKJKxOlnAgQnnpK9jm-kMUHM6?e=ko3cGO).
+
+
+# [Project 2 : Linear Regression ](https://github.com/avixd/MultipleLinearRegressioninPython)
+> *Tools*: Libraries such as pandas, numpy and matplotlib in Python. 
+> *Alogrithms* : Decision Trees
+> *Skills* : Exploratory Data Analysis, Predictive Analysis.
+#*Problem Description*: Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
 
