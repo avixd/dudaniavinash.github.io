@@ -1,16 +1,20 @@
-# Welcome! [Avinash Dudani's](https://www.linkedin.com/in/avinash-dudani/) Portfolio
+# Welcome to [Avinash Dudani's](https://www.linkedin.com/in/avinash-dudani/) Portfolio !
 
-## About Me:
+# About Avinash:
 
 ![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
 > 1. Avinash is an autonomous Industrial engineer with 3 years of experience.
-> 2. He is innately curious and immensely passionate about Big Data, Cloud Computing and Business Intelligence.
-> 3. Avinash strives to create unqiue end-to-end solutions using the Microsoft Tech stack.
+> 2. He is innately curious and immensely passionate about Big Data, Cloud Computing, Business Intelligence, Process Imrpovement and [Project Management](https://www.credly.com/badges/6a7b9d75-c6db-43db-8ffc-b9340b95d232/public_url).
+> 3. Avinash strives to create unqiue end-to-end durable, scalable and available solutions using products and services in the Microsoft Tech stack, providing speed to insights while promoting data integrity.
+> 4. He is proficient in utilizing tools such as  [Power BI](https://www.credly.com/badges/f0925474-6b3f-4455-9b44-a1576025a9e6/linked_in_profile), [Azure](https://www.credly.com/badges/7260e635-73f2-4c54-a393-49d6b61fb8e6/public_url), SQL Server Management Studio, Power Automate and Power Apps.
+> 5. Languages: Power Query M, DAX, Python, T-SQL. 
 
 
-# [Project 1 : Adventure Works Sales Analysis](https://github.com/avixd/Adventure-Works-Sales-Analysis)
+# Sample Projects
 
-# *Problem Statement*
+## *[Project 1 : Adventure Works Sales Analysis](https://github.com/avixd/Adventure-Works-Sales-Analysis)*
+
+## *Problem Statement*
 1. Analyze historical sales and profit and territory.
 2. Identify bestselling products and attributed customers and regions.
 3. Forecast revenue for the next 7 periods.
@@ -31,14 +35,14 @@ Here is a [video](https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=cjUtrh), de
 A summary of this project is also [available here](https://1drv.ms/b/s!AkGuKJKxOlnAgQnnpK9jm-kMUHM6?e=ko3cGO).
 
 
-# [Project 2 : Linear Regression ](https://github.com/avixd/MultipleLinearRegressioninPython)
-# *Problem Statement*
+## *[Project 2 : Linear Regression ](https://github.com/avixd/MultipleLinearRegressioninPython)*
+## *Problem Statement*
 Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
 
 > *Tools*:  Python. 
-> *Skills* : Exploratory Data Analysis, Descriptive and Predictive Analysis.
+> *Skills*: Exploratory Data Analysis, Descriptive and Predictive Analysis.
 
-# [*Solution Steps*](https://1drv.ms/b/s!AkGuKJKxOlnAgQxHIJK4HfocT9F8?e=j7FkPX):
+## *[Solution Steps](https://1drv.ms/b/s!AkGuKJKxOlnAgQxHIJK4HfocT9F8?e=j7FkPX)*:
 1. Importing Libraries such as sklearn,pandas, numpy and matplotlib. Reading csv files.
 2. Descriptive Analysis ( Exploring avaialble features,null counts and data types, descriptive statistics such as mean, min/max, IQR values.
 3. Exploratory Data Analysis
