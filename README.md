@@ -2,7 +2,7 @@
 
 ## About Me:
 
-![Avin](https://1drv.ms/i/s!AkGuKJKxOlnAgQtTNHudl4mXS1LM?e=jnAav1.png)
+![Avin](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
 > 1. Avinash is an autonomous Industrial engineer with 3 years of experience.
 > 2. He is innately curious and immensely passionate about Big Data, Cloud Computing and Business Intelligence.
 > 3. Avinash strives to create unqiue end-to-end solutions using the Microsoft Tech stack.
