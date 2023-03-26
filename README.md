@@ -31,14 +31,20 @@ A summary of this project is also [available here](https://1drv.ms/b/s!AkGuKJKxO
 
 
 # [Project 2 : Linear Regression ](https://github.com/avixd/MultipleLinearRegressioninPython)
-> *Tools*: Libraries such as sklearn,pandas, numpy and matplotlib in Python. 
-> *Skills* : Exploratory Data Analysis, Dataset Splitting, Model Train and Test ,Predictive Analysis,
-# *Problem Description*: Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
+> *Tools*:  Python. 
+> *Skills* : Exploratory Data Analysis, Descriptive and Predictive Analysis.
+
+># *Problem Description*: 
+>Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State
+
 # [*Solution Steps*](https://1drv.ms/b/s!AkGuKJKxOlnAgQxHIJK4HfocT9F8?e=j7FkPX):
-1. Importing Libraries and reading the steps
+1. Importing Libraries such as sklearn,pandas, numpy and matplotlib. Reading csv files.
 2. Descriptive Analysis ( Exploring avaialble features,null counts and data types, descriptive statistics such as mean, min/max, IQR values.
 3. Exploratory Data Analysis
 4. Model Splitting, Training and Testing : Used a 80-20 Split
 5. Model Evaluation : On tuning the model, the R^2^ Score = 93.47%
+![]https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit.png
+![]https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png
+
 
 
