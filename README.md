@@ -3,8 +3,8 @@
 # About Avinash:
 
 ![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
-> 1. Avinash is an autonomous Industrial engineer with 3 years of experience.
-> 2. He is innately curious and immensely passionate about Big Data, Cloud Computing, Business Intelligence, Process Imrpovement and [Project Management](https://www.credly.com/badges/6a7b9d75-c6db-43db-8ffc-b9340b95d232/public_url).
+> 1. Avinash is an autonomous Industrial engineer with 3+ years of experience as a Data Analyst.
+> 2. He is innately curious and immensely passionate about Big Data, Cloud Computing, Business Intelligence, Process improvement, and [Project Management](https://www.credly.com/badges/6a7b9d75-c6db-43db-8ffc-b9340b95d232/public_url).
 > 3. Avinash strives to create unqiue end-to-end durable, scalable and available solutions using products and services in the Microsoft Tech stack, providing speed to insights while promoting data integrity.
 > 4. He is proficient in utilizing tools such as  [Power BI](https://www.credly.com/badges/f0925474-6b3f-4455-9b44-a1576025a9e6/linked_in_profile), [Azure](https://www.credly.com/badges/7260e635-73f2-4c54-a393-49d6b61fb8e6/public_url), SQL Server Management Studio, Power Automate and Power Apps.
 > 5. Languages: Power Query M, DAX, Python, T-SQL. 
