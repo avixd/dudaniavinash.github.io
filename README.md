@@ -1,8 +1,9 @@
 # Welcome to [Avinash Dudani's](https://www.linkedin.com/in/avinash-dudani/) Portfolio !
 
-# About Avinash:
+<a href = "https://www.linkedin.com/in/avinash-dudani/"> <img src= "https://i0.wp.com/bootcampdigital.com/wp-content/uploads/2020/01/LinkedIn-Logo-LineArt.png?fit=1054%2C1087&ssl=1" / > </a>
 
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
+# [About Avinash:!](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
+
 > 1. Avinash is an autonomous Industrial engineer with 3+ years of experience as a Data Analyst.
 > 2. He is innately curious and immensely passionate about Big Data, Cloud Computing, Business Intelligence, Process improvement, and [Project Management](https://www.credly.com/badges/6a7b9d75-c6db-43db-8ffc-b9340b95d232/public_url).
 > 3. Avinash strives to create unqiue end-to-end durable, scalable and available solutions using products and services in the Microsoft Tech stack, providing speed to insights while promoting data integrity.
