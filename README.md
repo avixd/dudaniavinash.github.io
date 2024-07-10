@@ -1,6 +1,6 @@
 # Welcome to [Avinash Dudani's](https://www.linkedin.com/in/avinash-dudani/) Portfolio !
 
-<a href = "https://www.linkedin.com/in/avinash-dudani/"> <img src= "https://i0.wp.com/bootcampdigital.com/wp-content/uploads/2020/01/LinkedIn-Logo-LineArt.png?fit=1054%2C1087&ssl=1" / > </a>
+
 
 # [About Avinash:!](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Capture.PNG)
 
